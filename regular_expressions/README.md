@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 READNE File
 =======
 <<<<<<< HEAD
@@ -11,3 +12,6 @@ READNE File
 =======
 READNE File
 >>>>>>> 7275c11764023340ef436c6290cb12ee964d85eb
+=======
+READNE File
+>>>>>>> 83c75fad2d2824ddaf4f264941e9bce7e0fc9bdf
